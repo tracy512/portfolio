@@ -1,0 +1,168 @@
+Manual and Automation software tester 
+
+SUMMARY
+* Proficient at supporting software development and production in a working deadline oriented environments. 0ver 4+ years working Experience in information technology but the focus in the last 2 years has been in software testing, and the first two years in web design and development.
+ I’m experienced in checking program functions, layouts, operations to look for usability, security and visual design problems. Experienced in working in agile and waterfall model. Also have a vast knowledge and experience in web design and development with personal passion projects of my own. 
+PROFFESSIONAL SUMMARY
+
+* Experienced in writing test cases and performing manual testing 
+* Experienced in web design, development and deployment.
+* Have experience working with JMeter, using it for API automation  and testing
+* Proficient in using JMeter run test cases for performance, functional and load testing 
+* Experienced in using JUnit in Eclipse IDE to write and run test cases 
+*  Also have experience working with seleniumIDE.
+* Knowledgeable in OSWAP ZAP in performing security testing 
+* Experience in Server infrastructure development on AWS Cloud, extensive usage of EC2, IAM, RDS, S3, EBS, Route53, ECS,VPC, Cloud Watch, Redshift, Lambda, SNS, SQS, EMR, Cloud Trail
+* Knowledge working with programming languages like Java, groovy, JavaScript etc 
+*  Build servers using AWS, importing volumes, launching EC2, RDS, creating security groups, Auto-scaling, Elastic Load Balancing (ELB) in the defined virtual private connection.
+
+
+
+
+Experience 
+Doxa Media (August 2022- current)
+Job summary: Freelance manual testing 
+
+Job description
+* Generate issues 
+* Log bugs 
+* Draft issue reports 
+* Test the key functionalities of the software 
+Tools Pipeline- JIRA, MS Word
+
+CLOUDHIGHT CONSULTING (April 2022- current)
+Project Summary 1:
+Project Title: -Hospital Management System
+Description - This project involves creating a platform that will assist in a seemless day-to-day operations of a hospital activities. The purpose is to improve better collaborations and communications between the braches involved. 
+Tools Pipeline – JIRA, MS Word, JMeter, Eclipse IDE 
+Job Description
+* to track and record defects Involved in SCRUM meetings with the development and product management team and analyzed and developed product stories and included in SPRINT BACKLOG
+* Wrote test cases with the complete description of requirements, uploaded test cases and report results.
+* Worked as manual and automation tester and analyse business and functional requirement in other to understand the scope of test strategy 
+* Coordinated with developers in JIRA
+Walk through some of the project implemented
+* Met with the project management team to discuss all the key functionalities desired by the clients 
+* Wrote the test script for the manual testing phase using MS Excel
+* Coordinated with the developers and Tested API’S using JMeter 
+* Uploaded and reported some bugs found in the results of testing in JIRA
+* Used the OSWAZP command to perform security testing 
+* This project was an Agile project
+
+What I personally did in the project;
+* I wrote test cases for manual testing 
+* I coordinated with the project management team and developers using JIRA
+* I tested APIs 
+* I performed security testing
+
+Essence of the project: this project will help the hospital monitor the professionalism of their workers i.e. their log in/ log out time, application for leave and holidays etc  
+
+Project Summary 2: 
+Project- Online Recruitment Platform 
+Description- on this project, we worked on creating a platform where employers can advertise their jobs to job seeker helping them to have the best of user experience and fostering effective communications between them.
+Tools pipeline-JIRA, MS Excel, Jmeter 
+Walk through some of the projects implemented; 
+* Met with the team to discuss all the key functionalities desired by the clients and how possible achieving this goal will be 
+* Wrote the test script for manual testing using MS Excel
+* Coordinated with the developers using JIRA and Tested API’S using JMeter 
+* Uploaded and reported some bugs found in the results of testing in JIRA
+* Used the OSWAZP command to perform security testing 
+* This project was an Agile project
+
+
+
+What I personally did in the project;
+* I wrote test cases for manual testing 
+* I coordinated with the team and developers using JIRA
+* I tested APIs 
+* I performed security testing 
+Essence of the project; this project when completed, will assist both recruiters and job applicants in finding employees and employers 
+
+Client: Centre for Socio-Legal studies (June 2020- June 2021)
+Project title; Company’s website 
+Description; this project involves the building of an internet based law firm where both lawyers and clients can connect.
+Tools pipeline; JIRA, JMETER, MS EXCEL, visual studio
+Walk through some of the projects implemented;
+* Met with the team leader to understand the key functionalities of the project 
+* Wrote test cases 
+* Coordinated with the developers and tested APIs 
+* This project was a waterfall project 
+* Assisted in the design and development of the website 
+What I personally did in this project; 
+* I wrote test case for the clients 
+* I performed manual testing on the finished website 
+* API automation
+* Wrote codes in HTML, Javascript and css for the company website 
+Essence of the project; this project will allow for clients to seek legal redress through this platform. Clients seeking legal recourse will be assisted through the website  
+
+
+
+Technical skills 
+* Strong scripting skills in JMeter 
+* Software tester 
+* Experience in automation of API
+* Strong experience in Selenium 
+* OSWASP ZAP security testing 
+* Experience in agile process (Jira)
+* Knowledge of software development lifecycle 
+* Understanding of functional, integrating system, acceptance, smoke, sanity and other testing methodologies 
+* Knowledge of test case designs techniques 
+* Good understanding of defect tracking and bug life cycle 
+* Writing of test cases and test scenarios 
+* Basic understanding of API Testing 
+* Basic understanding of  API path 
+* Understanding of JMeter 
+* Basic understanding of UI automation
+* API interactions 
+
+
+Skills 
+* JMeter 
+* Selenium
+* OSWASP ZAP
+* Eclipse IDE
+* HTML 
+* CSS/bootstrap
+* JavaScript 
+* Java 
+* Groovy 
+* JSON
+* Cloud provider (AWS) 
+* Github
+
+
+ 
+
+
+APPLICATION SOFTWARE 
+* Jira, Confluence, Ms. Excel, Lucid, Monday.com
+* Apache JMeter
+* Owasp zap proxy, Eclipse, selenium 
+* Programming basic- JAVA, HTML, CSS, JAVASCRIPT,PYTHON 
+
+EDUCATION AND CERTIFICATION
+MotivaLogic      
+- Certificate in software testing 
+- ISTQB Software Testing Certification 
+
+Amazon Web Services training 
+- Certificate in cloud engineering
+ Code Institute
+- Coding challenge certificate 
+Griffith College, Dublin 
+- LLM International Commercial Law 
+Benson Idahosa University, Benin-City Nigeria 
+- LLB, Bachelors in Law
+  STRENGTH 
+- Passion for working with new technology 
+- Strong verbal and communicative skills 
+- Ability to work under pressure 
+- Organizational skills with ability to work with tight schedules 
+- 
+
+Referees available upon request
+ UDOM MFON INI 
++353830161353
+Tracy.udom1@gmail.com
+
+
+

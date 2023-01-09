@@ -1,0 +1,72 @@
+Test case for amazon e-commerce software
+Test name: Black box testing                                                                  Status: open 
+Affect versions      10 -15                                                                        fix versions
+                                                                                                                   Resolutions
+Priority                                         
+Test nameDescriptionStep name 
+(Design steps)Description(Design steps)Expected results Review comments 
+
+Functional testing Test each and every module thoroughly against customer requirements Step 1
+
+
+
+
+
+
+Step 2
+
+
+
+
+Step 3
+
+
+
+
+
+Step 4Click on home tab  to make sure all the contets of homepage is displaying 
+
+
+Check login to make sure one can successfully login
+
+
+Click on the search bar to make sure its working properly 
+
+
+
+Click on each search menu to make sure its working Home page open and all contents very visible to customer
+
+
+Successful login 
+
+
+
+See that one can accurately search for items 
+
+Check all search components to make sure each search option is working correctly Integrated testing Verify each flowStep 1
+
+
+Step 2
+
+
+
+Step 3
+
+
+Step 4
+Step 5Check the login 
+
+
+Check the search bar
+
+
+Proceed to shop
+
+
+Check the billing 
+Check delivery 
+Successful login
+
+Search working effectively System testing 
+Blackbox testing functional testing       
+                          

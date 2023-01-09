@@ -1,0 +1,34 @@
+Exploratory, performance and userability testing performed on Hubo app model
+* Test: Download Hubo app model on IOS 16 device
+Test failed (Bug found)  
+Severity: High
+Status: open
+New issue: Unable to download on IOS 16.1.1
+Environment: IPhone 13 pro
+Additional comment: Software is unable to download. Says software is from an untrusted developer. Screenshots and screen recording uploaded on the jira 
+
+* Test: Create a user account on the Hubo app
+Unable to test (Bug found)
+Severity: High
+Status: open
+Issue is reproduced 
+Environment: iPhone 13 pro
+
+* Test: Upload Profile Picture 
+Unable to test (Bug found)
+Severity: High
+Status: open
+Issue is reproduced 
+Environment: iPhone 13 pro
+
+* Test: Connect with other users (use test team Username as users)
+Unable to test (Bug found)
+Severity: High
+Status: open
+Issue is reproduced 
+Environment: iPhone 13 pro
+
+
+
+
+
